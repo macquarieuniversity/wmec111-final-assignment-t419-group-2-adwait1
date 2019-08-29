@@ -1041,7 +1041,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 875621450}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!43 &479261214
 Mesh:
@@ -2036,7 +2036,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 875621450}
-  m_RootOrder: 5
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &875621449
 GameObject:
@@ -2066,9 +2066,9 @@ Transform:
   - {fileID: 322989385}
   - {fileID: 526886433}
   - {fileID: 1594103163}
-  - {fileID: 1848420056}
   - {fileID: 335868907}
   - {fileID: 805911858}
+  - {fileID: 1848420056}
   - {fileID: 1706175649}
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -2642,7 +2642,7 @@ GameObject:
   - component: {fileID: 1564374542}
   - component: {fileID: 1564374541}
   m_Layer: 0
-  m_Name: Terrain
+  m_Name: Game Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4320,7 +4320,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 875621450}
-  m_RootOrder: 3
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1870351754
 Prefab:
