@@ -119,7 +119,7 @@ Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: pb_Mesh-403918
+  m_Name: pb_Mesh16918
   serializedVersion: 9
   m_SubMeshes:
   - serializedVersion: 2
@@ -3553,7 +3553,7 @@ GameObject:
   - component: {fileID: 1848420052}
   - component: {fileID: 1848420051}
   m_Layer: 0
-  m_Name: Door
+  m_Name: FrontDoor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
